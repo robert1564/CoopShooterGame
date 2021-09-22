@@ -28,3 +28,5 @@ In the development of the game I used a plug-in called "MindMaker" developed by 
   
 Full documentation here (Romanian language):
 
+[Shooter Game with Deep Learning Algorithm.pdf](https://github.com/robert1564/CoopShooterGame/files/7213475/Shooter.Game.with.Deep.Learning.Algorithm.pdf)
+
