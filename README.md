@@ -26,7 +26,7 @@ In the development of the game I used a plug-in called "MindMaker" developed by 
 
   ![Diagrama DQL](https://user-images.githubusercontent.com/52401139/134409426-1b871297-94d4-45ea-838a-551f0eb9dff1.png)
   
-Full documentation here (Romanian language):
+Full documentation here (Romanian language): 
 
 [Shooter Game with Deep Learning Algorithm.pdf](https://github.com/robert1564/CoopShooterGame/files/7213475/Shooter.Game.with.Deep.Learning.Algorithm.pdf)
 
